@@ -2,4 +2,4 @@ github-class
 ============
 
 Repo created for teaching git and github
-Secondary branch
+Why is this teacher still talking?!
