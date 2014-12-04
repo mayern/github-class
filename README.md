@@ -2,4 +2,5 @@ github-class
 ============
 
 Repo created for teaching git and github
-"why is this taeac;;sldfkj"
+Why is this teacher still talking?!
+ 
